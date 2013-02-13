@@ -1,12 +1,14 @@
 # Things 2 Puppet Module for Boxen
 
-Requires the `boxen` puppet module.
-
 ## Usage
 
 ```puppet
 include things
 ```
+
+## Required Puppet Modules
+
+* boxen
 
 ## Developing
 
